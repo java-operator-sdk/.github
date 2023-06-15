@@ -1,6 +1,6 @@
 ## Java Operator SDK is Moved Under [Operator Framework](https://operatorframework.io/)
 
-You can find moved repositories here:
+Java Operator SDK is now subproject of Operator Framework. You can find moved repositories here:
 
 [Java Operator SDK](https://github.com/operator-framework/java-operator-sdk)
 
