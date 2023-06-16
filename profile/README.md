@@ -8,6 +8,6 @@ Java Operator SDK is now subproject of Operator Framework. You can find moved re
 
 [Spring Boot Starter](https://github.com/operator-framework/operator-framework-spring-boot-starter)
 
-# The Quarkus Extension Remains in Quarkiverse 
+### The Quarkus Extension Remains in Quarkiverse 
 
 [Quarkus Operator SDK](https://github.com/quarkiverse/quarkus-operator-sdk)
