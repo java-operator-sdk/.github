@@ -7,3 +7,7 @@ Java Operator SDK is now subproject of Operator Framework. You can find moved re
 [Kubernetes Webhooks Framework](https://github.com/operator-framework/kubernetes-webooks-framework)
 
 [Spring Boot Starter](https://github.com/operator-framework/operator-framework-spring-boot-starter)
+
+# The Quarkus Extension Remains in Quarkiverse 
+
+[Quarkus Operator SDK](https://github.com/quarkiverse/quarkus-operator-sdk)
