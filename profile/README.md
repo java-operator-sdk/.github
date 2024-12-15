@@ -12,6 +12,6 @@ Java Operator SDK is now subproject of Operator Framework. You can find moved re
 
 [Quarkus Operator SDK](https://github.com/quarkiverse/quarkus-operator-sdk)
 
-### Kubernetes Glue Operator reamains here for now:
+### Kubernetes Glue Operator reamains here for now
 
 [Kuberentes Glue Operator](https://github.com/java-operator-sdk/kubernetes-glue-operator)
